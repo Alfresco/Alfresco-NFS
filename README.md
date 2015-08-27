@@ -8,7 +8,9 @@ to add back NFS functionality to alfresco.
 
 The code in this project corresponds to revision r109179 in Alfresco's SVN repository.
 
-Interested parties should contact Alfresco to collaborate with this project.  
+Interested parties should contact Alfresco to collaborate with this project.
+Best way to contact us is to email community@alfresco.com
+
 If we get a lot of interest in the module, then we can prioritize building necessary extension points as a future activity.
 
 Overview
